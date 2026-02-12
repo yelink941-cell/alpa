@@ -8,12 +8,9 @@ p {
   font-size: 12px;
   line-height: 8px;
   text-align: justify;
-  -webkit-background-size: cover;
+  background: url(photo_2026-02-12_09-49-33.jpg) no-repeat center;
   background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  background: url(/photo_2026-02-12_09-49-33.jpg) no-repeat center;
-  background-attachment: fixed;
   -webkit-background-clip: text;
-  -webkit-text-fill-color: rgb(225, 225, 255, 0);
+  -webkit-text-fill-color: transparent;
 }
+
